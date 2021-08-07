@@ -113,7 +113,6 @@ Pygments==2.9.0
 PyMsgBox==1.0.9
 pyparsing==2.4.7
 pyperclip==1.8.2
-pypiwin32==223
 PyRect==0.1.4
 pyrsistent==0.17.3
 PyScreeze==0.1.27
@@ -125,8 +124,6 @@ python-Levenshtein-wheels==0.13.2
 pytube @ git+https://github.com/nficano/pytube@48ea5205b92e8e090866589be67780ce8e29a922
 PyTweening==1.0.3
 pytz==2021.1
-pywhatkit==4.9
-pywinpty==0.5.7
 PyYAML==5.4.1
 pyzmq==22.0.3
 regex==2021.7.6
@@ -163,11 +160,9 @@ typing-extensions==3.7.4.3
 tzlocal==2.1
 urllib3==1.26.4
 virtualenv==20.6.0
-virtualenvwrapper-win==1.2.6
 wcwidth==0.2.5
 webencodings==0.5.1
 websocket-client==0.59.0
 Werkzeug==2.0.1
 wikipedia==1.4.0
-win10toast==0.9
 wrapt==1.12.1
