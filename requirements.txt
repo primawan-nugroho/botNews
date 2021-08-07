@@ -126,7 +126,6 @@ pytube @ git+https://github.com/nficano/pytube@48ea5205b92e8e090866589be67780ce8
 PyTweening==1.0.3
 pytz==2021.1
 pywhatkit==4.9
-pywin32==300
 pywinpty==0.5.7
 PyYAML==5.4.1
 pyzmq==22.0.3
