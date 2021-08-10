@@ -15,9 +15,9 @@ TOPIC = "Sports"
 LANGUAGE = "Indonesian"
 LOCATION = "Indonesia"
 TIME = [None] * MAX_NEWS
-TIME[0] = "12:35"
-TIME[1] = "12:40"
-TIME[2] = "12:45"
+TIME[0] = "07:05"
+TIME[1] = "07:10"
+TIME[2] = "07:15"
 ########################################
 
 logging.basicConfig(level=logging.INFO)
