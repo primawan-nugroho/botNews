@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# tweepy-bots/bots/followfollowers.py
-
 import tweepy
 import logging
 import time
@@ -24,6 +21,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger()
 item = 0
 
+#saving this for later
 def check_mentions(api, keywords, since_id):
     logger.info("Retrieving mentions")
     new_since_id = since_id
