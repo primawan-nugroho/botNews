@@ -1,4 +1,4 @@
-# import module
+#for testing without tweeting
 from gnewsclient import gnewsclient
 import schedule
 import time
